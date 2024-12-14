@@ -1,0 +1,9 @@
+In this experiment, the introduction of both GitHub and Anaconda is tackled. 
+
+The first to be introduced is the GitHub application. In GitHub, it allows a team of people to be able to collaborate in order to accomplish a specific task.
+During the collaboration process, the GitHub keeps track of the changes made by different collaborators by storing the history via pull requests. These pull requests are done by different collaborators to contribute
+to a specific task. Given this case, each member of the team are monitored on what contributions are made through their pull requests. The leader of the team, then, accepts each contributions by allowing to merge the
+files sent via pull requests.
+
+The second to be introduced via this experiment is the Anaconda platform. The Anaconda contains the Python and R programming languages as part of its package allowing learners to be able to incorporate python and R
+to their skill set.
