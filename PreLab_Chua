@@ -1,0 +1,19 @@
+Professional Git:
+
+Software development requires source code management, and Git, a version control system, makes it easier to track changes, organize teamwork, and oversee even big projects. With features like pull requests
+and branches, GitHub, a web-based Git repository host, improves communication, code quality, and project management while facilitating remote teamwork.
+
+
+Chapter 1: What is Git, Git Ecosystem, Git-Hosting Sites Fundamentals of Python: Data Structures, 2nd Edition:
+
+We looked at Anaconda, a Python and R package manager that makes package distribution and administration easier. We became acquainted with basic instructions such as opening apps, starting programs, and 
+accessing `.txt` files in the same folder by using Spyder and Visual Studio in the lab. An outstanding tool for data science, Anaconda provides easy access to required packages without requiring 
+complicated system libraries. Additionally, we practiced utilizing directory management commands (`cd`, `md`) and the Anaconda prompt with commands like `conda info` and `conda create`.
+
+
+Visual Studio Code:
+
+The Explorer panel, Search, Source Control, Run and Debug, Extensions, and Testing were among the features of Visual Studio Code that we looked at. We created a sample program that included components 
+like basic syntax, control statements, string operations, error handling, and mathematical computations in order to assess its functionality. Execution was made simpler by the "Run Python File" button in 
+the upper-right corner, which displayed errors and results at the bottom. In order to guarantee correct operation, we also learned to open Python and text files in the same folder, highlighting the need of 
+opening the entire folder rather than just individual files.
